@@ -1,4 +1,9 @@
-### Hi there 👋
+- [x] clean up github profile
+- [x] include short description
+- [x] create fancy profile readme
+- [ ] apply for jobs (i.e. do something usefull)
+
+
 
 <!--
 **SebiBasti/SebiBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
