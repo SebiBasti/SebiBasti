@@ -1,7 +1,7 @@
-- [x] clean up profile
-- [x] create a short description
-- [x] create a fancy profile readme
-- [ ] apply for jobs (i.e. do something usefull)
+> - [x] clean up profile
+> - [x] create a short description
+> - [x] create a fancy profile readme
+> - [ ] apply for jobs (i.e. do something usefull)
 
 
 
