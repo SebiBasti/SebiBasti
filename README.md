@@ -1,6 +1,6 @@
-- [x] clean up github profile
-- [x] include short description
-- [x] create fancy profile readme
+- [x] clean up profile
+- [x] create a short description
+- [x] create a fancy profile readme
 - [ ] apply for jobs (i.e. do something usefull)
 
 
