@@ -4,7 +4,7 @@
 > - [ ] apply for jobs (i.e. do something usefull)
 > - [x] grind on codewars
 
-[<img src="https://www.codewars.com/users/SebiBasti/badges/small">](https://www.codewars.com/users/SebiBasti)
+[<img src="https://www.codewars.com/users/SebiBasti/badges/large">](https://www.codewars.com/users/SebiBasti)
 
 <!--
 **SebiBasti/SebiBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
