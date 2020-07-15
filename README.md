@@ -3,6 +3,8 @@
 > - [x] create a fancy profile readme
 > - [ ] apply for jobs (i.e. do something usefull)
 
+![](https://www.codewars.com/users/SebiBasti/badges/large)
+
 
 
 <!--
