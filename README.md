@@ -2,6 +2,7 @@
 > - [x] create a short description
 > - [x] create a fancy profile readme
 > - [ ] apply for jobs (i.e. do something usefull)
+> - [x] grind on codewars
 
 ![](https://www.codewars.com/users/SebiBasti/badges/large)
 
