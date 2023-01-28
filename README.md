@@ -1,7 +1,7 @@
 > - [x] clean up profile
 > - [x] create a short description
 > - [x] create a fancy profile readme
-> - [ ] apply for jobs (i.e. do something usefull)
+> - [ ] apply for jobs (i.e. do something useful)
 > - [x] grind on codewars
 
 [<img src="https://www.codewars.com/users/SebiBasti/badges/large">](https://www.codewars.com/users/SebiBasti)
